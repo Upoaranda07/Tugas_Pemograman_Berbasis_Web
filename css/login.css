@@ -1,0 +1,96 @@
+body {
+	font-family: Garamond;
+	font-weight: bold;
+	background: url("5.jpg");
+	background-size: 1300px;
+	overflow: hidden;
+}
+
+h1 {
+	font-size: 40px;
+	font-family:Lucida Calligraphy ;
+	font-weight:  bold;
+	position: relative;
+	text-align: center;
+	top: 100px;
+	color : #7CFC00;
+	
+
+}
+h2{
+	position: relative;
+	top: 10px;
+	left: 10px;
+	text-align: center;
+	font-family: Imprint MT Shadow;
+	top: 10px;
+	color: orange;
+	font-size: 50px;
+
+}
+
+p {
+    font-style: Garamond;
+    font-weight: bold;
+}
+
+.pass{
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+
+.input-group{
+    position: relative;
+    left: 100px;
+    top: 30px;
+    border-radius: 5px;
+    color: blue;
+
+}
+.posisi{
+	position: relative;
+	left: 30px;
+}
+.box-login{
+	background: linear-gradient(120deg, #F9957F, #F2F5D0);
+	width: 300px;
+	height: 200px;
+	border-radius: 5px;
+	position: relative;
+	left: 500px;
+}
+input[type=email]{
+	position: relative;
+	left: 70px;
+	top: 40px;
+	border-radius: 4px;
+	resize: vertical;
+}
+input[type=password]{
+	position: relative;
+	left: 70px;
+	top: 40px;
+	border-radius: 4px;
+
+}
+button{
+	position: relative;
+	left: 530px;
+	bottom: 120px;
+	color: blue;
+	cursor: pointer;
+}
+a {
+	position: relative;
+	right: 135px;
+	top: 30px;
+}
+p{
+	position: relative;
+	left: 580px;
+	bottom: 100px;
+}
+
+
+
